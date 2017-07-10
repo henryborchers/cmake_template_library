@@ -1,0 +1,2 @@
+add_subdirectory(myexecutable)
+add_subdirectory(mylibrary)
